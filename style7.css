@@ -1,0 +1,96 @@
+body{
+    
+}
+.navbar-changed{
+   border-radius: 0px;
+    background-color: rgb(226,239,250);
+    /* background-color: white; */
+    width: 75%;
+    min-height: 3%;
+    border: none;
+    font-size: 10px;
+    color:rgb(0,74,171);
+    margin-bottom: 0px;
+    
+}
+
+.header-link:hover{
+    text-decoration:none;
+   
+}
+.navbar-changed-again{
+    background-color: rgb(144,196,245);
+    border-radius:0px;
+    border:none;
+    margin-top: 0px;
+    padding-top:0px;
+    width:75%;
+    margin-bottom: 0px;
+}
+.link-size{
+   font-size: 10px;
+    color:rgb(0,74,171);
+    margin-top: 20px;
+}
+.log-out{
+        margin-top: 15px;
+    height: 25px;
+    text-align: center;
+    padding-top: 0px;
+    width:70px;
+
+}
+.plan{
+    font-weight:;
+    color:rgb(46,105,166);
+}
+.nav-pills>li>a:hover{
+    background-color:rgb(144,196,245); 
+}
+.nav-pills>li>a:active{
+    background-color:rgb(0,74,143); 
+}
+.well-modified{
+    border-radius: 0px;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+.line{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.dropdown{
+    color: black;
+}
+a:hover{
+    text-decoration: none;
+}
+a:active{
+    text-decoration: none;
+}
+.style-font{
+    color:rgb(0,74,143);
+    font-size:24px;
+}
+.print-icon{
+    color:darkblue;
+    font-size: 24px;
+}
+.account-main{
+    margin-top: 10px;
+}
+.design{
+    color:grey;
+}
+.view-button{
+    color: rgb(0,74,143);
+    background-color: lightgrey;
+    width: 80px;
+}
+.well-modified{
+    border-radius:0px;
+    background-color: white;
+    border:1px dotted lightgray;
+}
